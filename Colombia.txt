@@ -1,3 +1,7 @@
 Colombia
 Bogota
+<<<<<<< HEAD
 Pereira
+=======
+Cali
+>>>>>>> origin/BasePRDdiciembre
