@@ -1,7 +1,1 @@
 Colombia
-<<<<<<< HEAD
-bOGOTA
-tolima
-=======
-CALI
->>>>>>> origin/AveGEE_Cenit
