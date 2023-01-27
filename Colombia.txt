@@ -1,6 +1,1 @@
 Colombia
-<<<<<<< HEAD
-Medellin
-=======
-Cali
->>>>>>> 486a14dc005c1433cfe85536b31651b08096075c
