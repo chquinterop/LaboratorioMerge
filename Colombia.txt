@@ -1,2 +1,6 @@
 Colombia
+<<<<<<< HEAD
 Italia
+=======
+Mexico
+>>>>>>> origin/BasePRDdiciembre
