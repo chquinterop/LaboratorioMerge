@@ -1,8 +1,1 @@
 Colombia
-Bogota
-Medellin
-<<<<<<< HEAD
-Envigado
-=======
-Pereira
->>>>>>> origin/AveGEE_Cenit
